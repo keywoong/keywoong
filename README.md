@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently studying on ...
-Inha University, Industrial Engineering <br>
-Inha Informatics Lab Intern(2021.04~)
-MOT | Image Tracking | Trajectory Analysis<br>
-SLsolution Dev-team Intern
-Web API application 
+**Inha University** <br>
+*Industrial Engineering* <br>
+**Inha Informatics Lab Intern** (2021.04~)<br>
+*MOT | Image Tracking | Trajectory Analysis*<br>
+**SLsolution Dev-team Intern**<br>
+*Web API application*
 
 ### 🌱 I’m currently learning ...
 - Languages : C++, Python
