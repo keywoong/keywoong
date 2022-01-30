@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently studying on ...
-- **Inha University** <br>
+- **Inha University Bachelor** <br>
 *Industrial Engineering, Deeplearning* <br>
 - **Inha Informatics Lab Intern** (2021.04~)<br>
 *MOT | Image Tracking | Trajectory Analysis*<br>
