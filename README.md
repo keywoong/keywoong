@@ -2,9 +2,9 @@
 
 ### 🔭 I’m currently studying on ...
 - **Inha University** <br>
-*Industrial Engineering* <br>
+*Industrial Engineering, Deeplearning* <br>
 - **Inha Informatics Lab Intern** (2021.04~)<br>
-*MOT | Image Tracking | Trajectory Analysis | Deeplearning*<br>
+*MOT | Image Tracking | Trajectory Analysis*<br>
 - **SLsolution Dev-team Intern**<br>
 *Web API application*
 
