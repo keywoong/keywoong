@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## 🔭 I’m currently studying on ...
+- Inha University
+- Industrial Engineering
+
+## 🌱 I’m currently learning ...
+- Languages : C++, Python
+- Frameworks : Tensorflow, Keras, Pytorch
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keywoong)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,10 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently studying on ...
-- Inha University
-- Industrial Engineering
-
-## 🌱 I’m currently learning ...
-- Languages : C++, Python
-- Frameworks : Tensorflow, Keras, Pytorch
