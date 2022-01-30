@@ -4,7 +4,7 @@
 - **Inha University** <br>
 *Industrial Engineering* <br>
 - **Inha Informatics Lab Intern** (2021.04~)<br>
-*MOT | Image Tracking | Trajectory Analysis*<br>
+*MOT | Image Tracking | Trajectory Analysis | Deeplearning*<br>
 - **SLsolution Dev-team Intern**<br>
 *Web API application*
 
