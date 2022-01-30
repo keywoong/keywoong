@@ -5,8 +5,6 @@
 *Industrial Engineering, Deeplearning* <br>
 - **Inha Informatics Lab Intern** (2021.04~)<br>
 *MOT | Image Tracking | Trajectory Analysis*<br>
-- **SLsolution Dev-team Intern**<br>
-*Web API application*
 
 ### 🌱 I’m currently learning ...
 - Languages : C++, Python
