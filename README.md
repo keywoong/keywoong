@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently studying on ...
-**Inha University** <br>
+- **Inha University** <br>
 *Industrial Engineering* <br>
-**Inha Informatics Lab Intern** (2021.04~)<br>
+- **Inha Informatics Lab Intern** (2021.04~)<br>
 *MOT | Image Tracking | Trajectory Analysis*<br>
-**SLsolution Dev-team Intern**<br>
+- **SLsolution Dev-team Intern**<br>
 *Web API application*
 
 ### 🌱 I’m currently learning ...
