@@ -7,8 +7,8 @@
 *MOT | Image Tracking | Trajectory Analysis*<br>
 
 ### 🌱 I’m currently learning ...
-- Languages : C++, Python
-- Frameworks : Tensorflow, Keras, Pytorch
+- Languages : C++, Python, Java
+- Frameworks : Tensorflow, Keras
 <br>
 
 <!--
