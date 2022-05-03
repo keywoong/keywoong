@@ -4,7 +4,7 @@
 - **Inha University Bachelor** (2019.03~)<br>
 *Industrial Engineering, AI* <br>
 - **Inha Informatics Lab Intern** (2021.04~)<br>
-*MNIST analysis | Trajectory Analysis*<br>
+
 
 ### 🌱 I’m currently learning ...
 - Languages : C++, Python, Java
