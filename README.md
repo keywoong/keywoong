@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently studying on ...
 - **Inha University Bachelor** (2019.03~)<br>
-*Industrial Engineering, AI* <br>
+*Industrial Engineering, Deep learning* <br>
 - **Inha Informatics Lab Intern** (2021.04~)<br>
 
 
